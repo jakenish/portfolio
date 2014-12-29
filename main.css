@@ -1,3 +1,4 @@
+/* Home Page CSS */
 body {
     background-color: #2c2c2c;
 }
@@ -175,7 +176,7 @@ p a:visited {
 #biz_dev_text {
     color: #2c2c2c;
     font-family: poiret-one, sans-serif;
-    padding-left: 10px;
+    padding-left: 8px;
 }
 
 #marketing_text {
@@ -191,14 +192,14 @@ p a:visited {
 }
 
 #footer {
-   position:fixed;
+    position:fixed;
    left:0px;
    bottom:0px;
    height:40px;
    width:100%;
-   border-top: 1px solid white;
+    border-top: 1px solid white;
    background:#a3f2fb;
-   text-align: center;
+    text-align: center;
 }
 
 #social {
@@ -248,3 +249,380 @@ span {
     font-family: bebas-neue, sans-serif;
     color: white;
 }
+/* Home Page CSS */
+
+
+/* Business Development CSS */
+#eits_logo {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 35px;
+}
+
+#biz_dev_title {
+    font-family: poiret-one, sans-serif;
+    font-size: 30px;
+    color: #ede6e6;
+    text-align: center;
+}
+
+#eits_about_section {
+    background-color: #c9cbd0;
+    height: 510px;
+    width: 1000px;
+    border: 1px solid white;
+    margin: auto;
+}
+
+#eits_name {
+    color: #2c2c2c;
+    font-family: poiret-one, sans-serif;
+    font-size: 50px;
+    margin-bottom: -50px;
+    margin-top: -2px;
+    padding-left: 5px;
+}
+
+#eits_about {
+    color: #a3f2fb;
+    font-family: bebas-neue, sans-serif;
+    font-size: 50px;
+    margin-bottom: -20px;
+    padding-left: 5px;
+}
+
+#biz_about {
+    color: #2c2c2c;
+    font-family: poiret-one, sans-serif;
+    font-size: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#role {
+    color: #2c2c2c;
+    font-family: poiret-one, sans-serif;
+    font-size: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#market_research_section {
+    background-color: #c9cbd0;
+    height: 660px;
+    width: 1000px;
+    border: 1px solid white;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#eits_market {
+    color: #2c2c2c;
+    font-family: poiret-one, sans-serif;
+    font-size: 50px;
+    margin-bottom: -50px;
+    margin-top: -2px;
+    padding-left: 5px;
+}
+
+#market_research_title {
+    color: #a3f2fb;
+    font-family: bebas-neue, sans-serif;
+    font-size: 50px;
+    margin-bottom: -20px;
+    padding-left: 5px;
+}
+
+#market_research_pics {
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+}
+
+#map1 {
+    padding-right: 40px;
+}
+
+#research_about {
+    color: #2c2c2c;
+    font-family: poiret-one, sans-serif;
+    font-size: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#financials_section {
+    background-color: #c9cbd0;
+    height: 750px;
+    width: 1000px;
+    border: 1px solid white;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+#eits_financials {
+     color: #2c2c2c;
+    font-family: poiret-one, sans-serif;
+    font-size: 50px;
+    margin-bottom: -50px;
+    margin-top: -2px;
+    padding-left: 5px;
+}
+
+#financials_title {
+    color: #a3f2fb;
+    font-family: bebas-neue, sans-serif;
+    font-size: 50px;
+    margin-bottom: -20px;
+    padding-left: 5px;
+}
+
+#financials_pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+#financials_about {
+    color: #2c2c2c;
+    font-family: poiret-one, sans-serif;
+    font-size: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+/* Business Development CSS */
+
+
+/* Marketing CSS */
+#float_fest_logo {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 35px;
+}
+
+#marketing_title {
+    font-family: poiret-one, sans-serif;
+    font-size: 30px;
+    color: #ede6e6;
+    text-align: center;
+}
+
+#band_projects {
+    background-color: #c9cbd0;
+    height: 680px;
+    width: 1000px;
+    border: 1px solid white;
+    margin: auto;
+}
+
+#consulting_projects {
+    color: #2c2c2c;
+    font-family: poiret-one, sans-serif;
+    font-size: 50px;
+    margin-bottom: -50px;
+    margin-top: -2px;
+    padding-left: 5px;
+}
+
+#band_title {
+    color: #a3f2fb;
+    font-family: bebas-neue, sans-serif;
+    font-size: 50px;
+    margin-bottom: -20px;
+    padding-left: 5px;
+}
+
+#band_pics {
+    margin-top: 40px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#megafauna {
+    padding-right: 15px;
+}
+
+#venus {
+    padding-right: 15px;
+}
+
+#sons {
+    padding-right: 15px;
+}
+
+#band_about {
+    color: #2c2c2c;
+    font-family: poiret-one, sans-serif;
+    font-size: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#float_fest_section {
+    background-color: #c9cbd0;
+    height: 800px;
+    width: 1000px;
+    border: 1px solid white;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+#music_festivals {
+    color: #2c2c2c;
+    font-family: poiret-one, sans-serif;
+    font-size: 50px;
+    margin-bottom: -50px;
+    margin-top: -2px;
+    padding-left: 5px;
+}
+
+#float_fest_title {
+    color: #a3f2fb;
+    font-family: bebas-neue, sans-serif;
+    font-size: 50px;
+    margin-bottom: -20px;
+    padding-left: 5px;
+}
+
+#float_pic {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+}
+
+#float_about {
+    color: #2c2c2c;
+    font-family: poiret-one, sans-serif;
+    font-size: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+/* Marketing CSS */
+
+
+/* Digital Creations CSS */
+#photoshop {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 35px;
+}
+
+#digital_title {
+   font-family: poiret-one, sans-serif;
+    font-size: 30px;
+    color: #ede6e6;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#school {
+    background-color: #c9cbd0;
+    height: 925px;
+    width: 1000px;
+    border: 1px solid white;
+    margin: auto;
+}
+
+#school_projects {
+    color: #2c2c2c;
+    font-family: poiret-one, sans-serif;
+    font-size: 50px;
+    margin-bottom: -50px;
+    margin-top: -2px;
+    padding-left: 5px;
+}
+
+#mashups {
+    color: #a3f2fb;
+    font-family: bebas-neue, sans-serif;
+    font-size: 50px;
+    margin-bottom: -20px;
+    padding-left: 5px;
+}
+
+#mashups_pics {
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#jigga {
+    margin-left: -50px;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+#gaga {
+     margin-left: -50px;
+    margin-right: 30px;
+    margin-top: 5px;
+}
+
+#bieber {
+    margin-right: -50px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+
+#bruno {
+    margin-right: -50px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+
+#digital_content {
+    height: 1100px;
+    width: 1000px;
+    background-color: #c9cbd0;
+    border: 1px solid white;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+#professional_projects {
+    color: #2c2c2c;
+    font-family: poiret-one, sans-serif;
+    font-size: 50px;
+    margin-bottom: -50px;
+    margin-top: -2px;
+    padding-left: 5px;
+}
+
+#float_content {
+     color: #a3f2fb;
+    font-family: bebas-neue, sans-serif;
+    font-size: 50px;
+    margin-bottom: -20px;
+    padding-left: 5px;
+}
+
+#digital_pics {
+    margin-top: 30px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+#turtlement {
+    margin-left: 13px;
+}
+
+#tubes {
+    margin-left: 12px;
+}
+
+#camping {
+    display: block;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* Digital Creations CSS */
